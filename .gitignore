@@ -1,0 +1,15 @@
+# Competitive Programming Helper (cph) extension files
+.cph/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
